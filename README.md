@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate web developer from Italy</h3>
+<h3 align="center">A passionate Web-Developer, Gamer and Tech enthusiast from Italy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
