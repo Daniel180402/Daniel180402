@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel180402&show_icons=true&locale=en" alt="daniel180402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel180402&" alt="daniel180402" /></p>
+
+![](https://komarev.com/ghpvc/?username=Daniel180402&color=green&style=flat-square)
