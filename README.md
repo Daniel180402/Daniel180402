@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Daniel<br>A passionate Web-Developer, Gamer and Tech enthusiast from Italy
+# Hi 👋, I'm Daniel<br>A passionate Web-Developer, Gamer and Tech enthusiast from Italy
 
 
 ## 🌐 Socials:
